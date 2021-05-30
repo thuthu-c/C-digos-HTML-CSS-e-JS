@@ -1,0 +1,24 @@
+<html>
+  <head>
+    <body>
+      <div class="container">
+      <h1>Calcule seu IMC</h1>
+        <form>
+          <p>Digite seu peso</p>
+          <div>
+            <input id="peso" type="number"/>
+            <span>Kg</span>
+          </div>
+          <div>
+            <p>Digite sua altura</p>
+            <input id="altura" type="number"/>
+            <span>cm</span>
+          </div>
+          <div>
+          <input id= "botaoCalcular" class="botao-calcular" type="button" value="Calcular"/>
+          </div>
+        </form>
+      <div id="resultado"></div>
+    </body
+  </head>
+</html>
